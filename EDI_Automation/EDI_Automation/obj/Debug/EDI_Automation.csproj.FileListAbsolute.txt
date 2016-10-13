@@ -1,0 +1,8 @@
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\EDI_Automation\EDI_Automation\bin\Debug\EDI_Automation.exe.config
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\EDI_Automation\EDI_Automation\bin\Debug\EDI_Automation.exe
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\EDI_Automation\EDI_Automation\bin\Debug\EDI_Automation.pdb
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\EDI_Automation\EDI_Automation\bin\Debug\System.Net.FtpClient.dll
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\EDI_Automation\EDI_Automation\bin\Debug\System.Net.FtpClient.xml
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\EDI_Automation\EDI_Automation\obj\Debug\EDI_Automation.csprojResolveAssemblyReference.cache
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\EDI_Automation\EDI_Automation\obj\Debug\EDI_Automation.exe
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\EDI_Automation\EDI_Automation\obj\Debug\EDI_Automation.pdb

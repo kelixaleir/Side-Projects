@@ -1,0 +1,6 @@
+c:\users\sukraaj.brench\documents\visual studio 2015\Projects\Anonymise\Anonymise\bin\Debug\Anonymise.exe.config
+c:\users\sukraaj.brench\documents\visual studio 2015\Projects\Anonymise\Anonymise\bin\Debug\Anonymise.exe
+c:\users\sukraaj.brench\documents\visual studio 2015\Projects\Anonymise\Anonymise\bin\Debug\Anonymise.pdb
+c:\users\sukraaj.brench\documents\visual studio 2015\Projects\Anonymise\Anonymise\obj\Debug\Anonymise.csprojResolveAssemblyReference.cache
+c:\users\sukraaj.brench\documents\visual studio 2015\Projects\Anonymise\Anonymise\obj\Debug\Anonymise.exe
+c:\users\sukraaj.brench\documents\visual studio 2015\Projects\Anonymise\Anonymise\obj\Debug\Anonymise.pdb
