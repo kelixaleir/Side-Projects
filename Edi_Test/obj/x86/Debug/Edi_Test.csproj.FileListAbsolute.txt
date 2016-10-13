@@ -1,0 +1,13 @@
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\bin\x86\Debug\Edi_Test.exe.config
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\obj\x86\Debug\Edi_Test.csproj.ResolveComReference.cache
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\bin\x86\Debug\Edi_Test.exe
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\bin\x86\Debug\Edi_Test.pdb
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\bin\x86\Debug\Excel.dll
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\bin\x86\Debug\Excel.pdb
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\obj\x86\Debug\Edi_Test.Form1.resources
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\obj\x86\Debug\Edi_Test.Properties.Resources.resources
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\obj\x86\Debug\Edi_Test.csproj.GenerateResource.Cache
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\obj\x86\Debug\Edi_Test.exe
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\obj\x86\Debug\Edi_Test.pdb
+C:\Users\sukraaj.brench\Documents\Visual Studio 2015\Projects\Edi_Test\Edi_Test\obj\x86\Debug\Edi_Test.csprojResolveAssemblyReference.cache
